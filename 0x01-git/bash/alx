@@ -1,1 +1,2 @@
--e#!/bin/bsh\necho" ALX is so chool"
+#!/bin/bash
+ echo"ALX is so chool"
