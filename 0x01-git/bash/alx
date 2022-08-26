@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 #!/bin/bash
- echo"ALX is so chool"
-=======
-#!bin/bash
-echo"ALX school"
->>>>>>> main
+echo "ALX is so "
